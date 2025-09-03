@@ -5,8 +5,9 @@ This is a low-profile case for the **[PicoGUS Femto Edition](https://github.com/
 
 For soldering the **Raspberry Pi Pico** *directly* onto the board **without using a connector**.
 
-[![001](001.png)](001.png)[![002](002.png)](002.png)
-[![003](003.png)](003.png)[![004](004.png)](004.png)
+[![002](002.png)](002.png)
+[![003](003.png)](003.png)
+[![004](004.png)](004.png)
 
 Files:
 - ***[PicoGUS-Femto-Top.FCStd](PicoGUS-Femto-Top.FCStd)*** - FreeCAD model of top cover
