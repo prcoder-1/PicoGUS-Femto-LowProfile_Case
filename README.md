@@ -1,5 +1,5 @@
 # PicoGUS-Femto-LowProfile_Case
-Low-profile case for the PicoGUS Femto edition
+Low-profile case for the **PicoGUS Femto edition**
 
 This is a low-profile case for the **PicoGUS Femto Edition**.
 
