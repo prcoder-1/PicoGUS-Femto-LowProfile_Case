@@ -2,6 +2,7 @@
 Low-profile case for the PicoGUS Femto edition
 
 This is a low-profile case for the **PicoGUS Femto Edition**.
+
 For soldering the Raspberry Pico directly onto the board **without using a connector**.
 
 [![001](001.png)](001.png)[![002](002.png)](002.png)
